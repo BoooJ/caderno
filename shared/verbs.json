@@ -1,0 +1,1784 @@
+[
+  {
+    "pt": "abrir",
+    "fr": "ouvrir",
+    "irregular": false,
+    "hint": "Régulier aux temps présentés ici. Le participe est irrégulier : aberto.",
+    "example": "A loja abre às nove.",
+    "present": [
+      "abro",
+      "abres",
+      "abre",
+      "abrimos",
+      "abrem"
+    ],
+    "past": [
+      "abri",
+      "abriste",
+      "abriu",
+      "abrimos",
+      "abriram"
+    ],
+    "imperfect": [
+      "abria",
+      "abrias",
+      "abria",
+      "abríamos",
+      "abriam"
+    ]
+  },
+  {
+    "pt": "achar",
+    "fr": "trouver, penser",
+    "hint": "« Acho que » exprime une opinion : je pense que.",
+    "example": "Acho que vai chover hoje.",
+    "source": "https://www.conjugacao.com.br/verbo-achar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "acho",
+      "achas",
+      "acha",
+      "achamos",
+      "acham"
+    ],
+    "past": [
+      "achei",
+      "achaste",
+      "achou",
+      "achamos",
+      "acharam"
+    ],
+    "imperfect": [
+      "achava",
+      "achavas",
+      "achava",
+      "achávamos",
+      "achavam"
+    ]
+  },
+  {
+    "pt": "acordar",
+    "fr": "se réveiller, réveiller",
+    "hint": "S’utilise sans pronom dans « eu acordo » : je me réveille.",
+    "example": "Eu acordo às sete da manhã.",
+    "source": "https://www.conjugacao.com.br/verbo-acordar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "acordo",
+      "acordas",
+      "acorda",
+      "acordamos",
+      "acordam"
+    ],
+    "past": [
+      "acordei",
+      "acordaste",
+      "acordou",
+      "acordamos",
+      "acordaram"
+    ],
+    "imperfect": [
+      "acordava",
+      "acordavas",
+      "acordava",
+      "acordávamos",
+      "acordavam"
+    ]
+  },
+  {
+    "pt": "ajudar",
+    "fr": "aider",
+    "hint": "« Ajudar a » suivi d’un infinitif : aider à faire quelque chose.",
+    "example": "Você pode me ajudar a escolher?",
+    "source": "https://www.conjugacao.com.br/verbo-ajudar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "ajudo",
+      "ajudas",
+      "ajuda",
+      "ajudamos",
+      "ajudam"
+    ],
+    "past": [
+      "ajudei",
+      "ajudaste",
+      "ajudou",
+      "ajudamos",
+      "ajudaram"
+    ],
+    "imperfect": [
+      "ajudava",
+      "ajudavas",
+      "ajudava",
+      "ajudávamos",
+      "ajudavam"
+    ]
+  },
+  {
+    "pt": "andar",
+    "fr": "marcher, se déplacer",
+    "hint": "« Andar a pé » : se déplacer à pied ; « andar de bicicleta » : faire du vélo.",
+    "example": "Eu prefiro andar a pé.",
+    "source": "https://www.conjugacao.com.br/verbo-andar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "ando",
+      "andas",
+      "anda",
+      "andamos",
+      "andam"
+    ],
+    "past": [
+      "andei",
+      "andaste",
+      "andou",
+      "andamos",
+      "andaram"
+    ],
+    "imperfect": [
+      "andava",
+      "andavas",
+      "andava",
+      "andávamos",
+      "andavam"
+    ]
+  },
+  {
+    "pt": "aprender",
+    "fr": "apprendre",
+    "hint": "« Aprender a » suivi d’un verbe : apprendre à faire quelque chose.",
+    "example": "Estou aprendendo a falar português.",
+    "source": "https://www.conjugacao.com.br/verbo-aprender/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "aprendo",
+      "aprendes",
+      "aprende",
+      "aprendemos",
+      "aprendem"
+    ],
+    "past": [
+      "aprendi",
+      "aprendeste",
+      "aprendeu",
+      "aprendemos",
+      "aprenderam"
+    ],
+    "imperfect": [
+      "aprendia",
+      "aprendias",
+      "aprendia",
+      "aprendíamos",
+      "aprendiam"
+    ]
+  },
+  {
+    "pt": "beber",
+    "fr": "boire",
+    "hint": "Pour une boisson ; tomar est aussi fréquent dans ce contexte.",
+    "example": "Você quer beber alguma coisa?",
+    "source": "https://www.conjugacao.com.br/verbo-beber/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "bebo",
+      "bebes",
+      "bebe",
+      "bebemos",
+      "bebem"
+    ],
+    "past": [
+      "bebi",
+      "bebeste",
+      "bebeu",
+      "bebemos",
+      "beberam"
+    ],
+    "imperfect": [
+      "bebia",
+      "bebias",
+      "bebia",
+      "bebíamos",
+      "bebiam"
+    ]
+  },
+  {
+    "pt": "chegar",
+    "fr": "arriver",
+    "hint": "Pour l’arrivée à un endroit ou à une heure.",
+    "example": "Eu chego às oito.",
+    "source": "https://www.conjugacao.com.br/verbo-chegar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "chego",
+      "chegas",
+      "chega",
+      "chegamos",
+      "chegam"
+    ],
+    "past": [
+      "cheguei",
+      "chegaste",
+      "chegou",
+      "chegamos",
+      "chegaram"
+    ],
+    "imperfect": [
+      "chegava",
+      "chegavas",
+      "chegava",
+      "chegávamos",
+      "chegavam"
+    ]
+  },
+  {
+    "pt": "colocar",
+    "fr": "mettre, placer",
+    "hint": "Un verbe courant pour indiquer où poser quelque chose.",
+    "example": "Pode colocar a bolsa aqui.",
+    "source": "https://www.conjugacao.com.br/verbo-colocar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "coloco",
+      "colocas",
+      "coloca",
+      "colocamos",
+      "colocam"
+    ],
+    "past": [
+      "coloquei",
+      "colocaste",
+      "colocou",
+      "colocamos",
+      "colocaram"
+    ],
+    "imperfect": [
+      "colocava",
+      "colocavas",
+      "colocava",
+      "colocávamos",
+      "colocavam"
+    ]
+  },
+  {
+    "pt": "começar",
+    "fr": "commencer",
+    "hint": "Devant un infinitif : começar a. La graphie change dans comecei.",
+    "example": "A aula começa às nove.",
+    "source": "https://www.conjugacao.com.br/verbo-comecar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "começo",
+      "começas",
+      "começa",
+      "começamos",
+      "começam"
+    ],
+    "past": [
+      "comecei",
+      "começaste",
+      "começou",
+      "começamos",
+      "começaram"
+    ],
+    "imperfect": [
+      "começava",
+      "começavas",
+      "começava",
+      "começávamos",
+      "começavam"
+    ]
+  },
+  {
+    "pt": "comer",
+    "fr": "manger",
+    "irregular": false,
+    "hint": "Un modèle régulier en -er. « Vamos comer? », on mange ?",
+    "example": "Eu gosto de comer com meus amigos.",
+    "present": [
+      "como",
+      "comes",
+      "come",
+      "comemos",
+      "comem"
+    ],
+    "past": [
+      "comi",
+      "comeste",
+      "comeu",
+      "comemos",
+      "comeram"
+    ],
+    "imperfect": [
+      "comia",
+      "comias",
+      "comia",
+      "comíamos",
+      "comiam"
+    ]
+  },
+  {
+    "pt": "comprar",
+    "fr": "acheter",
+    "hint": "Pour les achats du quotidien ; « fazer compras » désigne faire les courses.",
+    "example": "Preciso comprar pão e leite.",
+    "source": "https://www.conjugacao.com.br/verbo-comprar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "compro",
+      "compras",
+      "compra",
+      "compramos",
+      "compram"
+    ],
+    "past": [
+      "comprei",
+      "compraste",
+      "comprou",
+      "compramos",
+      "compraram"
+    ],
+    "imperfect": [
+      "comprava",
+      "compravas",
+      "comprava",
+      "comprávamos",
+      "compravam"
+    ]
+  },
+  {
+    "pt": "conhecer",
+    "fr": "connaître",
+    "hint": "Pour une personne, un lieu ou une expérience ; à distinguer de saber.",
+    "example": "Você conhece este restaurante?",
+    "source": "https://www.conjugacao.com.br/verbo-conhecer/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "conheço",
+      "conheces",
+      "conhece",
+      "conhecemos",
+      "conhecem"
+    ],
+    "past": [
+      "conheci",
+      "conheceste",
+      "conheceu",
+      "conhecemos",
+      "conheceram"
+    ],
+    "imperfect": [
+      "conhecia",
+      "conhecias",
+      "conhecia",
+      "conhecíamos",
+      "conheciam"
+    ]
+  },
+  {
+    "pt": "conseguir",
+    "fr": "réussir à, obtenir",
+    "hint": "Devant un infinitif, il exprime la capacité à réussir quelque chose.",
+    "example": "Eu consigo entender esta frase.",
+    "source": "https://www.conjugacao.com.br/verbo-conseguir/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "consigo",
+      "consegues",
+      "consegue",
+      "conseguimos",
+      "conseguem"
+    ],
+    "past": [
+      "consegui",
+      "conseguiste",
+      "conseguiu",
+      "conseguimos",
+      "conseguiram"
+    ],
+    "imperfect": [
+      "conseguia",
+      "conseguias",
+      "conseguia",
+      "conseguíamos",
+      "conseguiam"
+    ]
+  },
+  {
+    "pt": "cozinhar",
+    "fr": "cuisiner",
+    "hint": "Pour préparer un repas ou faire cuire un aliment.",
+    "example": "Hoje vamos cozinhar juntos.",
+    "source": "https://www.conjugacao.com.br/verbo-cozinhar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "cozinho",
+      "cozinhas",
+      "cozinha",
+      "cozinhamos",
+      "cozinham"
+    ],
+    "past": [
+      "cozinhei",
+      "cozinhaste",
+      "cozinhou",
+      "cozinhamos",
+      "cozinharam"
+    ],
+    "imperfect": [
+      "cozinhava",
+      "cozinhavas",
+      "cozinhava",
+      "cozinhávamos",
+      "cozinhavam"
+    ]
+  },
+  {
+    "pt": "dar",
+    "fr": "donner",
+    "hint": "Dans « dar certo », il signifie fonctionner ou bien se passer.",
+    "example": "Vai dar certo!",
+    "source": "https://www.conjugacao.com.br/verbo-dar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "dou",
+      "dás",
+      "dá",
+      "damos",
+      "dão"
+    ],
+    "past": [
+      "dei",
+      "deste",
+      "deu",
+      "demos",
+      "deram"
+    ],
+    "imperfect": [
+      "dava",
+      "davas",
+      "dava",
+      "dávamos",
+      "davam"
+    ]
+  },
+  {
+    "pt": "deixar",
+    "fr": "laisser",
+    "hint": "« Deixar de » suivi d’un infinitif peut signifier arrêter de.",
+    "example": "Pode deixar a chave na mesa.",
+    "source": "https://www.conjugacao.com.br/verbo-deixar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "deixo",
+      "deixas",
+      "deixa",
+      "deixamos",
+      "deixam"
+    ],
+    "past": [
+      "deixei",
+      "deixaste",
+      "deixou",
+      "deixamos",
+      "deixaram"
+    ],
+    "imperfect": [
+      "deixava",
+      "deixavas",
+      "deixava",
+      "deixávamos",
+      "deixavam"
+    ]
+  },
+  {
+    "pt": "dizer",
+    "fr": "dire",
+    "hint": "Pour rapporter une parole ou expliquer une signification.",
+    "example": "O que você quer dizer?",
+    "source": "https://www.conjugacao.com.br/verbo-dizer/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "digo",
+      "dizes",
+      "diz",
+      "dizemos",
+      "dizem"
+    ],
+    "past": [
+      "disse",
+      "disseste",
+      "disse",
+      "dissemos",
+      "disseram"
+    ],
+    "imperfect": [
+      "dizia",
+      "dizias",
+      "dizia",
+      "dizíamos",
+      "diziam"
+    ]
+  },
+  {
+    "pt": "dormir",
+    "fr": "dormir",
+    "hint": "Au présent, la première personne change : eu durmo.",
+    "example": "Eu durmo cedo durante a semana.",
+    "source": "https://www.conjugacao.com.br/verbo-dormir/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "durmo",
+      "dormes",
+      "dorme",
+      "dormimos",
+      "dormem"
+    ],
+    "past": [
+      "dormi",
+      "dormiste",
+      "dormiu",
+      "dormimos",
+      "dormiram"
+    ],
+    "imperfect": [
+      "dormia",
+      "dormias",
+      "dormia",
+      "dormíamos",
+      "dormiam"
+    ]
+  },
+  {
+    "pt": "encontrar",
+    "fr": "trouver, rencontrer",
+    "hint": "Pour trouver quelque chose ou retrouver quelqu’un.",
+    "example": "Vamos encontrar nossos amigos no centro.",
+    "source": "https://www.conjugacao.com.br/verbo-encontrar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "encontro",
+      "encontras",
+      "encontra",
+      "encontramos",
+      "encontram"
+    ],
+    "past": [
+      "encontrei",
+      "encontraste",
+      "encontrou",
+      "encontramos",
+      "encontraram"
+    ],
+    "imperfect": [
+      "encontrava",
+      "encontravas",
+      "encontrava",
+      "encontrávamos",
+      "encontravam"
+    ]
+  },
+  {
+    "pt": "entender",
+    "fr": "comprendre",
+    "hint": "Une phrase pratique : « Não entendi », je n’ai pas compris.",
+    "example": "Eu entendo melhor quando você fala devagar.",
+    "source": "https://www.conjugacao.com.br/verbo-entender/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "entendo",
+      "entendes",
+      "entende",
+      "entendemos",
+      "entendem"
+    ],
+    "past": [
+      "entendi",
+      "entendeste",
+      "entendeu",
+      "entendemos",
+      "entenderam"
+    ],
+    "imperfect": [
+      "entendia",
+      "entendias",
+      "entendia",
+      "entendíamos",
+      "entendiam"
+    ]
+  },
+  {
+    "pt": "escrever",
+    "fr": "écrire",
+    "hint": "Régulier aux temps affichés ; le participe est escrito.",
+    "example": "Você pode escrever o nome para mim?",
+    "source": "https://www.conjugacao.com.br/verbo-escrever/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "escrevo",
+      "escreves",
+      "escreve",
+      "escrevemos",
+      "escrevem"
+    ],
+    "past": [
+      "escrevi",
+      "escreveste",
+      "escreveu",
+      "escrevemos",
+      "escreveram"
+    ],
+    "imperfect": [
+      "escrevia",
+      "escrevias",
+      "escrevia",
+      "escrevíamos",
+      "escreviam"
+    ]
+  },
+  {
+    "pt": "esperar",
+    "fr": "attendre, espérer",
+    "hint": "Le contexte distingue attendre une personne et espérer un résultat.",
+    "example": "Pode esperar um minutinho?",
+    "source": "https://www.conjugacao.com.br/verbo-esperar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "espero",
+      "esperas",
+      "espera",
+      "esperamos",
+      "esperam"
+    ],
+    "past": [
+      "esperei",
+      "esperaste",
+      "esperou",
+      "esperamos",
+      "esperaram"
+    ],
+    "imperfect": [
+      "esperava",
+      "esperavas",
+      "esperava",
+      "esperávamos",
+      "esperavam"
+    ]
+  },
+  {
+    "pt": "esquecer",
+    "fr": "oublier",
+    "hint": "« Esqueci » : j’ai oublié. Attention au ç dans eu esqueço.",
+    "example": "Eu esqueci a chave em casa.",
+    "source": "https://www.conjugacao.com.br/verbo-esquecer/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "esqueço",
+      "esqueces",
+      "esquece",
+      "esquecemos",
+      "esquecem"
+    ],
+    "past": [
+      "esqueci",
+      "esqueceste",
+      "esqueceu",
+      "esquecemos",
+      "esqueceram"
+    ],
+    "imperfect": [
+      "esquecia",
+      "esquecias",
+      "esquecia",
+      "esquecíamos",
+      "esqueciam"
+    ]
+  },
+  {
+    "pt": "estar",
+    "fr": "être · état, lieu",
+    "irregular": true,
+    "hint": "Pour un état ou une position. « Estou no Brasil. »",
+    "example": "Hoje estou com vontade de sair.",
+    "present": [
+      "estou",
+      "estás",
+      "está",
+      "estamos",
+      "estão"
+    ],
+    "past": [
+      "estive",
+      "estiveste",
+      "esteve",
+      "estivemos",
+      "estiveram"
+    ],
+    "imperfect": [
+      "estava",
+      "estavas",
+      "estava",
+      "estávamos",
+      "estavam"
+    ]
+  },
+  {
+    "pt": "estudar",
+    "fr": "étudier",
+    "hint": "S’utilise pour une matière ou pour l’activité d’étudier.",
+    "example": "Eu estudo português todos os dias.",
+    "source": "https://www.conjugacao.com.br/verbo-estudar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "estudo",
+      "estudas",
+      "estuda",
+      "estudamos",
+      "estudam"
+    ],
+    "past": [
+      "estudei",
+      "estudaste",
+      "estudou",
+      "estudamos",
+      "estudaram"
+    ],
+    "imperfect": [
+      "estudava",
+      "estudavas",
+      "estudava",
+      "estudávamos",
+      "estudavam"
+    ]
+  },
+  {
+    "pt": "falar",
+    "fr": "parler",
+    "irregular": false,
+    "hint": "Un modèle régulier en -ar. « Falo um pouco de português. »",
+    "example": "Pode falar mais devagar, por favor?",
+    "present": [
+      "falo",
+      "falas",
+      "fala",
+      "falamos",
+      "falam"
+    ],
+    "past": [
+      "falei",
+      "falaste",
+      "falou",
+      "falamos",
+      "falaram"
+    ],
+    "imperfect": [
+      "falava",
+      "falavas",
+      "falava",
+      "falávamos",
+      "falavam"
+    ]
+  },
+  {
+    "pt": "fazer",
+    "fr": "faire",
+    "irregular": true,
+    "hint": "Très utile pour les activités : « fazer compras », faire les courses.",
+    "example": "O que você vai fazer hoje?",
+    "present": [
+      "faço",
+      "fazes",
+      "faz",
+      "fazemos",
+      "fazem"
+    ],
+    "past": [
+      "fiz",
+      "fizeste",
+      "fez",
+      "fizemos",
+      "fizeram"
+    ],
+    "imperfect": [
+      "fazia",
+      "fazias",
+      "fazia",
+      "fazíamos",
+      "faziam"
+    ]
+  },
+  {
+    "pt": "fechar",
+    "fr": "fermer",
+    "hint": "Pour une porte, un commerce ou un accord.",
+    "example": "Que horas a loja fecha?",
+    "source": "https://www.conjugacao.com.br/verbo-fechar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "fecho",
+      "fechas",
+      "fecha",
+      "fechamos",
+      "fecham"
+    ],
+    "past": [
+      "fechei",
+      "fechaste",
+      "fechou",
+      "fechamos",
+      "fecharam"
+    ],
+    "imperfect": [
+      "fechava",
+      "fechavas",
+      "fechava",
+      "fechávamos",
+      "fechavam"
+    ]
+  },
+  {
+    "pt": "ficar",
+    "fr": "rester, devenir, se trouver",
+    "hint": "Très polyvalent : « Onde fica? » demande où se trouve un lieu.",
+    "example": "Onde fica o banheiro?",
+    "source": "https://www.conjugacao.com.br/verbo-ficar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "fico",
+      "ficas",
+      "fica",
+      "ficamos",
+      "ficam"
+    ],
+    "past": [
+      "fiquei",
+      "ficaste",
+      "ficou",
+      "ficamos",
+      "ficaram"
+    ],
+    "imperfect": [
+      "ficava",
+      "ficavas",
+      "ficava",
+      "ficávamos",
+      "ficavam"
+    ]
+  },
+  {
+    "pt": "gostar",
+    "fr": "aimer, apprécier",
+    "hint": "Se construit avec de : gostar de café, gostar de viajar.",
+    "example": "Eu gosto de caminhar de manhã.",
+    "source": "https://www.conjugacao.com.br/verbo-gostar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "gosto",
+      "gostas",
+      "gosta",
+      "gostamos",
+      "gostam"
+    ],
+    "past": [
+      "gostei",
+      "gostaste",
+      "gostou",
+      "gostamos",
+      "gostaram"
+    ],
+    "imperfect": [
+      "gostava",
+      "gostavas",
+      "gostava",
+      "gostávamos",
+      "gostavam"
+    ]
+  },
+  {
+    "pt": "ir",
+    "fr": "aller",
+    "irregular": true,
+    "hint": "Ir + infinitif exprime un projet proche : « Vou estudar. »",
+    "example": "A gente vai à praia amanhã.",
+    "present": [
+      "vou",
+      "vais",
+      "vai",
+      "vamos",
+      "vão"
+    ],
+    "past": [
+      "fui",
+      "foste",
+      "foi",
+      "fomos",
+      "foram"
+    ],
+    "imperfect": [
+      "ia",
+      "ias",
+      "ia",
+      "íamos",
+      "iam"
+    ]
+  },
+  {
+    "pt": "lembrar",
+    "fr": "se rappeler, rappeler",
+    "hint": "Courant au Brésil : « lembrar de ». Avec le pronom : lembrar-se de.",
+    "example": "Preciso lembrar de comprar café.",
+    "source": "https://www.conjugacao.com.br/verbo-lembrar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "lembro",
+      "lembras",
+      "lembra",
+      "lembramos",
+      "lembram"
+    ],
+    "past": [
+      "lembrei",
+      "lembraste",
+      "lembrou",
+      "lembramos",
+      "lembraram"
+    ],
+    "imperfect": [
+      "lembrava",
+      "lembravas",
+      "lembrava",
+      "lembrávamos",
+      "lembravam"
+    ]
+  },
+  {
+    "pt": "ler",
+    "fr": "lire",
+    "hint": "La forme « leem » s’écrit sans accent circonflexe.",
+    "example": "Eu leio as notícias de manhã.",
+    "source": "https://www.conjugacao.com.br/verbo-ler/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "leio",
+      "lês",
+      "lê",
+      "lemos",
+      "leem"
+    ],
+    "past": [
+      "li",
+      "leste",
+      "leu",
+      "lemos",
+      "leram"
+    ],
+    "imperfect": [
+      "lia",
+      "lias",
+      "lia",
+      "líamos",
+      "liam"
+    ]
+  },
+  {
+    "pt": "levar",
+    "fr": "emporter, emmener",
+    "hint": "Le mouvement s’éloigne généralement du point de référence, contrairement à trazer.",
+    "example": "Vou levar um casaco.",
+    "source": "https://www.conjugacao.com.br/verbo-levar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "levo",
+      "levas",
+      "leva",
+      "levamos",
+      "levam"
+    ],
+    "past": [
+      "levei",
+      "levaste",
+      "levou",
+      "levamos",
+      "levaram"
+    ],
+    "imperfect": [
+      "levava",
+      "levavas",
+      "levava",
+      "levávamos",
+      "levavam"
+    ]
+  },
+  {
+    "pt": "morar",
+    "fr": "habiter",
+    "irregular": false,
+    "hint": "« Morar em » pour dire où on habite : « Moro em São Paulo. »",
+    "example": "Você mora aqui perto?",
+    "present": [
+      "moro",
+      "moras",
+      "mora",
+      "moramos",
+      "moram"
+    ],
+    "past": [
+      "morei",
+      "moraste",
+      "morou",
+      "moramos",
+      "moraram"
+    ],
+    "imperfect": [
+      "morava",
+      "moravas",
+      "morava",
+      "morávamos",
+      "moravam"
+    ]
+  },
+  {
+    "pt": "ouvir",
+    "fr": "entendre, écouter",
+    "hint": "Pour percevoir un son ou écouter quelque chose.",
+    "example": "Eu gosto de ouvir música brasileira.",
+    "source": "https://www.conjugacao.com.br/verbo-ouvir/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "ouço",
+      "ouves",
+      "ouve",
+      "ouvimos",
+      "ouvem"
+    ],
+    "past": [
+      "ouvi",
+      "ouviste",
+      "ouviu",
+      "ouvimos",
+      "ouviram"
+    ],
+    "imperfect": [
+      "ouvia",
+      "ouvias",
+      "ouvia",
+      "ouvíamos",
+      "ouviam"
+    ]
+  },
+  {
+    "pt": "pagar",
+    "fr": "payer",
+    "hint": "Au Brésil, on peut demander à payer « com Pix » ou « com cartão ».",
+    "example": "Posso pagar com cartão?",
+    "source": "https://www.conjugacao.com.br/verbo-pagar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "pago",
+      "pagas",
+      "paga",
+      "pagamos",
+      "pagam"
+    ],
+    "past": [
+      "paguei",
+      "pagaste",
+      "pagou",
+      "pagamos",
+      "pagaram"
+    ],
+    "imperfect": [
+      "pagava",
+      "pagavas",
+      "pagava",
+      "pagávamos",
+      "pagavam"
+    ]
+  },
+  {
+    "pt": "pedir",
+    "fr": "demander, commander",
+    "hint": "Utile au restaurant pour commander un plat ou demander l’addition.",
+    "example": "Vamos pedir a conta?",
+    "source": "https://www.conjugacao.com.br/verbo-pedir/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "peço",
+      "pedes",
+      "pede",
+      "pedimos",
+      "pedem"
+    ],
+    "past": [
+      "pedi",
+      "pediste",
+      "pediu",
+      "pedimos",
+      "pediram"
+    ],
+    "imperfect": [
+      "pedia",
+      "pedias",
+      "pedia",
+      "pedíamos",
+      "pediam"
+    ]
+  },
+  {
+    "pt": "pegar",
+    "fr": "prendre, attraper",
+    "hint": "Au Brésil, « pegar o ônibus » signifie prendre le bus.",
+    "example": "Eu pego o ônibus perto de casa.",
+    "source": "https://www.conjugacao.com.br/verbo-pegar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "pego",
+      "pegas",
+      "pega",
+      "pegamos",
+      "pegam"
+    ],
+    "past": [
+      "peguei",
+      "pegaste",
+      "pegou",
+      "pegamos",
+      "pegaram"
+    ],
+    "imperfect": [
+      "pegava",
+      "pegavas",
+      "pegava",
+      "pegávamos",
+      "pegavam"
+    ]
+  },
+  {
+    "pt": "pensar",
+    "fr": "penser",
+    "hint": "« Pensar em » pour penser à quelqu’un ou à quelque chose.",
+    "example": "Estou pensando em viajar no fim de semana.",
+    "source": "https://www.conjugacao.com.br/verbo-pensar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "penso",
+      "pensas",
+      "pensa",
+      "pensamos",
+      "pensam"
+    ],
+    "past": [
+      "pensei",
+      "pensaste",
+      "pensou",
+      "pensamos",
+      "pensaram"
+    ],
+    "imperfect": [
+      "pensava",
+      "pensavas",
+      "pensava",
+      "pensávamos",
+      "pensavam"
+    ]
+  },
+  {
+    "pt": "perguntar",
+    "fr": "demander, poser une question",
+    "hint": "Pour poser une question ; pour demander un objet, on utilise plutôt pedir.",
+    "example": "Posso perguntar uma coisa?",
+    "source": "https://www.conjugacao.com.br/verbo-perguntar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "pergunto",
+      "perguntas",
+      "pergunta",
+      "perguntamos",
+      "perguntam"
+    ],
+    "past": [
+      "perguntei",
+      "perguntaste",
+      "perguntou",
+      "perguntamos",
+      "perguntaram"
+    ],
+    "imperfect": [
+      "perguntava",
+      "perguntavas",
+      "perguntava",
+      "perguntávamos",
+      "perguntavam"
+    ]
+  },
+  {
+    "pt": "poder",
+    "fr": "pouvoir",
+    "hint": "Pour demander la permission ou un service. Au passé, « pôde » prend un accent.",
+    "example": "Você pode me ajudar?",
+    "source": "https://www.conjugacao.com.br/verbo-poder/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "posso",
+      "podes",
+      "pode",
+      "podemos",
+      "podem"
+    ],
+    "past": [
+      "pude",
+      "pudeste",
+      "pôde",
+      "pudemos",
+      "puderam"
+    ],
+    "imperfect": [
+      "podia",
+      "podias",
+      "podia",
+      "podíamos",
+      "podiam"
+    ]
+  },
+  {
+    "pt": "precisar",
+    "fr": "avoir besoin de",
+    "hint": "« Precisar de » devant un nom ; généralement sans de devant un infinitif.",
+    "example": "Preciso de ajuda para encontrar o endereço.",
+    "source": "https://www.conjugacao.com.br/verbo-precisar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "preciso",
+      "precisas",
+      "precisa",
+      "precisamos",
+      "precisam"
+    ],
+    "past": [
+      "precisei",
+      "precisaste",
+      "precisou",
+      "precisamos",
+      "precisaram"
+    ],
+    "imperfect": [
+      "precisava",
+      "precisavas",
+      "precisava",
+      "precisávamos",
+      "precisavam"
+    ]
+  },
+  {
+    "pt": "procurar",
+    "fr": "chercher",
+    "hint": "L’action de chercher, avant de trouver : encontrar.",
+    "example": "Estou procurando uma farmácia.",
+    "source": "https://www.conjugacao.com.br/verbo-procurar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "procuro",
+      "procuras",
+      "procura",
+      "procuramos",
+      "procuram"
+    ],
+    "past": [
+      "procurei",
+      "procuraste",
+      "procurou",
+      "procuramos",
+      "procuraram"
+    ],
+    "imperfect": [
+      "procurava",
+      "procuravas",
+      "procurava",
+      "procurávamos",
+      "procuravam"
+    ]
+  },
+  {
+    "pt": "querer",
+    "fr": "vouloir",
+    "hint": "« Queria » adoucit une demande : je voudrais.",
+    "example": "Eu queria uma água, por favor.",
+    "source": "https://www.conjugacao.com.br/verbo-querer/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "quero",
+      "queres",
+      "quer",
+      "queremos",
+      "querem"
+    ],
+    "past": [
+      "quis",
+      "quiseste",
+      "quis",
+      "quisemos",
+      "quiseram"
+    ],
+    "imperfect": [
+      "queria",
+      "querias",
+      "queria",
+      "queríamos",
+      "queriam"
+    ]
+  },
+  {
+    "pt": "responder",
+    "fr": "répondre",
+    "hint": "Peut concerner une question, un message ou une personne.",
+    "example": "Eu respondo à mensagem mais tarde.",
+    "source": "https://www.conjugacao.com.br/verbo-responder/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "respondo",
+      "respondes",
+      "responde",
+      "respondemos",
+      "respondem"
+    ],
+    "past": [
+      "respondi",
+      "respondeste",
+      "respondeu",
+      "respondemos",
+      "responderam"
+    ],
+    "imperfect": [
+      "respondia",
+      "respondias",
+      "respondia",
+      "respondíamos",
+      "respondiam"
+    ]
+  },
+  {
+    "pt": "saber",
+    "fr": "savoir",
+    "hint": "Pour une information ou une compétence : saber + infinitif.",
+    "example": "Eu não sei onde fica a estação.",
+    "source": "https://www.conjugacao.com.br/verbo-saber/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "sei",
+      "sabes",
+      "sabe",
+      "sabemos",
+      "sabem"
+    ],
+    "past": [
+      "soube",
+      "soubeste",
+      "soube",
+      "soubemos",
+      "souberam"
+    ],
+    "imperfect": [
+      "sabia",
+      "sabias",
+      "sabia",
+      "sabíamos",
+      "sabiam"
+    ]
+  },
+  {
+    "pt": "sair",
+    "fr": "sortir, partir",
+    "hint": "« Sair de » précise le lieu que l’on quitte.",
+    "example": "A gente sai de casa às sete.",
+    "source": "https://www.conjugacao.com.br/verbo-sair/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "saio",
+      "sais",
+      "sai",
+      "saímos",
+      "saem"
+    ],
+    "past": [
+      "saí",
+      "saíste",
+      "saiu",
+      "saímos",
+      "saíram"
+    ],
+    "imperfect": [
+      "saía",
+      "saías",
+      "saía",
+      "saíamos",
+      "saíam"
+    ]
+  },
+  {
+    "pt": "sentir",
+    "fr": "sentir, ressentir",
+    "hint": "« Sentir saudade » : ressentir le manque de quelqu’un ou de quelque chose.",
+    "example": "Eu sinto saudade da minha família.",
+    "source": "https://www.conjugacao.com.br/verbo-sentir/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "sinto",
+      "sentes",
+      "sente",
+      "sentimos",
+      "sentem"
+    ],
+    "past": [
+      "senti",
+      "sentiste",
+      "sentiu",
+      "sentimos",
+      "sentiram"
+    ],
+    "imperfect": [
+      "sentia",
+      "sentias",
+      "sentia",
+      "sentíamos",
+      "sentiam"
+    ]
+  },
+  {
+    "pt": "ser",
+    "fr": "être · identité",
+    "irregular": true,
+    "hint": "Pour l’identité, l’origine ou une caractéristique. « Sou francês. »",
+    "example": "Eu sou francês e ela é brasileira.",
+    "present": [
+      "sou",
+      "és",
+      "é",
+      "somos",
+      "são"
+    ],
+    "past": [
+      "fui",
+      "foste",
+      "foi",
+      "fomos",
+      "foram"
+    ],
+    "imperfect": [
+      "era",
+      "eras",
+      "era",
+      "éramos",
+      "eram"
+    ]
+  },
+  {
+    "pt": "ter",
+    "fr": "avoir",
+    "irregular": true,
+    "hint": "On dit « tenho fome » (j’ai faim) et « tenho 25 anos » (j’ai 25 ans).",
+    "example": "Você tem um minuto?",
+    "present": [
+      "tenho",
+      "tens",
+      "tem",
+      "temos",
+      "têm"
+    ],
+    "past": [
+      "tive",
+      "tiveste",
+      "teve",
+      "tivemos",
+      "tiveram"
+    ],
+    "imperfect": [
+      "tinha",
+      "tinhas",
+      "tinha",
+      "tínhamos",
+      "tinham"
+    ]
+  },
+  {
+    "pt": "trabalhar",
+    "fr": "travailler",
+    "hint": "« Trabalhar em casa » signifie travailler à la maison.",
+    "example": "Hoje eu trabalho em casa.",
+    "source": "https://www.conjugacao.com.br/verbo-trabalhar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "trabalho",
+      "trabalhas",
+      "trabalha",
+      "trabalhamos",
+      "trabalham"
+    ],
+    "past": [
+      "trabalhei",
+      "trabalhaste",
+      "trabalhou",
+      "trabalhamos",
+      "trabalharam"
+    ],
+    "imperfect": [
+      "trabalhava",
+      "trabalhavas",
+      "trabalhava",
+      "trabalhávamos",
+      "trabalhavam"
+    ]
+  },
+  {
+    "pt": "trazer",
+    "fr": "apporter, amener",
+    "hint": "Pour amener quelque chose vers la personne ou le lieu de référence.",
+    "example": "Você pode trazer um copo de água?",
+    "source": "https://www.conjugacao.com.br/verbo-trazer/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "trago",
+      "trazes",
+      "traz",
+      "trazemos",
+      "trazem"
+    ],
+    "past": [
+      "trouxe",
+      "trouxeste",
+      "trouxe",
+      "trouxemos",
+      "trouxeram"
+    ],
+    "imperfect": [
+      "trazia",
+      "trazias",
+      "trazia",
+      "trazíamos",
+      "traziam"
+    ]
+  },
+  {
+    "pt": "usar",
+    "fr": "utiliser, porter",
+    "hint": "Peut concerner un objet, une application ou un vêtement.",
+    "example": "Posso usar o seu carregador?",
+    "source": "https://www.conjugacao.com.br/verbo-usar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "uso",
+      "usas",
+      "usa",
+      "usamos",
+      "usam"
+    ],
+    "past": [
+      "usei",
+      "usaste",
+      "usou",
+      "usamos",
+      "usaram"
+    ],
+    "imperfect": [
+      "usava",
+      "usavas",
+      "usava",
+      "usávamos",
+      "usavam"
+    ]
+  },
+  {
+    "pt": "ver",
+    "fr": "voir",
+    "hint": "« Eu vi » signifie j’ai vu ; « eu vim » signifie je suis venu.",
+    "example": "Eu vi um filme brasileiro ontem.",
+    "source": "https://www.conjugacao.com.br/verbo-ver/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "vejo",
+      "vês",
+      "vê",
+      "vemos",
+      "veem"
+    ],
+    "past": [
+      "vi",
+      "viste",
+      "viu",
+      "vimos",
+      "viram"
+    ],
+    "imperfect": [
+      "via",
+      "vias",
+      "via",
+      "víamos",
+      "viam"
+    ]
+  },
+  {
+    "pt": "viajar",
+    "fr": "voyager",
+    "hint": "Pour les voyages et déplacements ; voyager en bus se dit viajar de ônibus.",
+    "example": "Vamos viajar no mês que vem.",
+    "source": "https://www.conjugacao.com.br/verbo-viajar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "viajo",
+      "viajas",
+      "viaja",
+      "viajamos",
+      "viajam"
+    ],
+    "past": [
+      "viajei",
+      "viajaste",
+      "viajou",
+      "viajamos",
+      "viajaram"
+    ],
+    "imperfect": [
+      "viajava",
+      "viajavas",
+      "viajava",
+      "viajávamos",
+      "viajavam"
+    ]
+  },
+  {
+    "pt": "vir",
+    "fr": "venir",
+    "hint": "À distinguer de ver : « eu venho » signifie je viens.",
+    "example": "Você vem com a gente?",
+    "source": "https://www.conjugacao.com.br/verbo-vir/",
+    "verifiedAt": "2026-10-10",
+    "irregular": true,
+    "present": [
+      "venho",
+      "vens",
+      "vem",
+      "vimos",
+      "vêm"
+    ],
+    "past": [
+      "vim",
+      "vieste",
+      "veio",
+      "viemos",
+      "vieram"
+    ],
+    "imperfect": [
+      "vinha",
+      "vinhas",
+      "vinha",
+      "vínhamos",
+      "vinham"
+    ]
+  },
+  {
+    "pt": "viver",
+    "fr": "vivre",
+    "hint": "Pour la vie ou le fait de vivre quelque part ; morar précise le domicile.",
+    "example": "Eu vivo no Brasil e aprendo algo novo todo dia.",
+    "source": "https://www.conjugacao.com.br/verbo-viver/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "vivo",
+      "vives",
+      "vive",
+      "vivemos",
+      "vivem"
+    ],
+    "past": [
+      "vivi",
+      "viveste",
+      "viveu",
+      "vivemos",
+      "viveram"
+    ],
+    "imperfect": [
+      "vivia",
+      "vivias",
+      "vivia",
+      "vivíamos",
+      "viviam"
+    ]
+  },
+  {
+    "pt": "voltar",
+    "fr": "revenir, retourner",
+    "hint": "« Voltar para casa » : rentrer à la maison.",
+    "example": "Eu volto amanhã.",
+    "source": "https://www.conjugacao.com.br/verbo-voltar/",
+    "verifiedAt": "2026-10-10",
+    "irregular": false,
+    "present": [
+      "volto",
+      "voltas",
+      "volta",
+      "voltamos",
+      "voltam"
+    ],
+    "past": [
+      "voltei",
+      "voltaste",
+      "voltou",
+      "voltamos",
+      "voltaram"
+    ],
+    "imperfect": [
+      "voltava",
+      "voltavas",
+      "voltava",
+      "voltávamos",
+      "voltavam"
+    ]
+  }
+]

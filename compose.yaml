@@ -1,0 +1,31 @@
+name: caderno
+services:
+  caderno:
+    build: .
+    restart: unless-stopped
+    ports:
+      - "127.0.0.1:3091:3090"
+    environment:
+      NODE_ENV: production
+      APP_ORIGIN: ${APP_ORIGIN:?Définir APP_ORIGIN dans .env}
+      APP_PASSWORD: ${APP_PASSWORD:?Définir APP_PASSWORD dans .env}
+      APP_ALLOW_SHORT_PASSWORD: ${APP_ALLOW_SHORT_PASSWORD:-false}
+    volumes:
+      - caderno-data:/app/data
+    mem_limit: 384m
+    security_opt:
+      - no-new-privileges:true
+    cap_drop:
+      - ALL
+    logging:
+      driver: json-file
+      options:
+        max-size: "10m"
+        max-file: "3"
+    healthcheck:
+      test: ["CMD", "node", "-e", "fetch('http://127.0.0.1:3090/api/session').then(r=>process.exit(r.ok?0:1)).catch(()=>process.exit(1))"]
+      interval: 30s
+      timeout: 5s
+      retries: 3
+volumes:
+  caderno-data:

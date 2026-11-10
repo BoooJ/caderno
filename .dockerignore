@@ -1,0 +1,13 @@
+node_modules
+dist
+data
+.env
+test-results
+playwright-report
+.git
+
+production.env
+initial-data.json
+source.tar.gz
+check-production.mjs
+configure-caddy.py
