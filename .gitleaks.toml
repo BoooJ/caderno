@@ -1,0 +1,8 @@
+title = "Caderno secret scanning"
+[extend]
+useDefault = true
+
+[[allowlists]]
+description = "Public localStorage key name, not an authentication credential"
+regexTarget = "secret"
+regexes = ['''^caderno-entries-v1$''']
