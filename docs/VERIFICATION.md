@@ -10,3 +10,8 @@ Portfolio publication prepared on 2026-11-10 from Caderno 0.2.0.
 - Screenshots are existing local application captures, not fabricated product mockups.
 
 The deployed personal instance was not modified as part of this portfolio publication.
+
+- Browser verification: 14 tests passing across desktop Chromium and mobile WebKit.
+- Offline PWA verification: 1 test passing.
+- Browser tests now start their own servers and refuse to reuse an unrelated application; the UI test server uses port 5197.
+- GitHub Actions passed the initial unit/API test and build workflow.
